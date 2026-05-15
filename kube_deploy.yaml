@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: loksai-eta-container
-        image: loksaieta/pl-java-web-app:latest
+        image: loksaieta/pl-kdeploy_demo_app
         ports:
         - containerPort: 8080
 ---
